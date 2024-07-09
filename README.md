@@ -6,6 +6,10 @@ Este projeto foi desenvolvido como parte do curso de HTML da Alura. Consiste em 
 
 A página de venda do plano fictício da Alura é um projeto simples desenvolvido para praticar os conceitos aprendidos no curso de HTML da Alura. Consiste em uma página estática que apresenta informações sobre um plano de assinatura e seus benefícios.
 
+## Demonstração
+
+[Link para a demonstração](https://leozings.github.io/alura-plus/)
+
 ## Como Executar
 
 Para executar este projeto localmente, siga os passos abaixo:
@@ -21,9 +25,3 @@ Para executar este projeto localmente, siga os passos abaixo:
     
     Basta dar um duplo clique no arquivo `index.html` ou abrir manualmente em seu navegador preferido.
     
-
-## Demonstração
-
-Uma demonstração ao vivo deste projeto estará disponível em breve.
-
-[Link para a demonstração](https://www.facebook.com/)
